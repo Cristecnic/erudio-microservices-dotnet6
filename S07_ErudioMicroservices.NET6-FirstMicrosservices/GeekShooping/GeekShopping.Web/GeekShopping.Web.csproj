@@ -6,4 +6,8 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="Program.cs~RF41525ad.TMP" />
+  </ItemGroup>
+
 </Project>

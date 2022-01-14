@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "U5upSDzwJfB/S+WBu2d67HTA41KD7b0Ejj36GtxeiEQ=",
+  "Hash": "AcU3GUqwZuCCJTPE5zPNjAzkWFdsdue80rBe2XBdgmU=",
   "Source": "GeekShopping.Web",
   "BasePath": "_content/GeekShopping.Web",
   "Mode": "Default",
@@ -83,6 +83,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "D:\\ProjetosVS\\Curso Microsservicos\\Code\\erudio-microservices-dotnet6\\S07_ErudioMicroservices.NET6-FirstMicrosservices\\GeekShooping\\GeekShopping.Web\\wwwroot\\images\\favicon.png",
+      "SourceId": "GeekShopping.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ProjetosVS\\Curso Microsservicos\\Code\\erudio-microservices-dotnet6\\S07_ErudioMicroservices.NET6-FirstMicrosservices\\GeekShooping\\GeekShopping.Web\\wwwroot\\",
+      "BasePath": "_content/GeekShopping.Web",
+      "RelativePath": "images/favicon.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\favicon.png"
+    },
+    {
+      "Identity": "D:\\ProjetosVS\\Curso Microsservicos\\Code\\erudio-microservices-dotnet6\\S07_ErudioMicroservices.NET6-FirstMicrosservices\\GeekShooping\\GeekShopping.Web\\wwwroot\\images\\geek_shopping.png",
+      "SourceId": "GeekShopping.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ProjetosVS\\Curso Microsservicos\\Code\\erudio-microservices-dotnet6\\S07_ErudioMicroservices.NET6-FirstMicrosservices\\GeekShooping\\GeekShopping.Web\\wwwroot\\",
+      "BasePath": "_content/GeekShopping.Web",
+      "RelativePath": "images/geek_shopping.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\geek_shopping.png"
     },
     {
       "Identity": "D:\\ProjetosVS\\Curso Microsservicos\\Code\\erudio-microservices-dotnet6\\S07_ErudioMicroservices.NET6-FirstMicrosservices\\GeekShooping\\GeekShopping.Web\\wwwroot\\js\\site.js",
