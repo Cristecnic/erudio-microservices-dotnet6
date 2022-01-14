@@ -62,7 +62,7 @@ namespace GeekShopping.Web.Controllers
             return NotFound();
         }
 
-        //delete
+        //delete produto
         [HttpPost]
         public async Task<IActionResult> ProductDelete(ProductModel model)
         {
